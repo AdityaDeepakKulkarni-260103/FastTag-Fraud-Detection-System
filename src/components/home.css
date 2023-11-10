@@ -1,0 +1,200 @@
+:root{
+    --background: #2b2f8d;
+    --light: #eca942;
+    --darkblue: #0b0e5e;
+    --lightblue: #3368f4;
+    --white: #f4eee8;
+    --grey: #393939;
+
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--background);
+    font-family: 'Poppins',sans-serif;
+}
+
+.mainContainer{
+    height: 95%;
+    width: 90%;
+    max-width: 540px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    border-radius: 24px;
+    padding: 40px;
+}
+
+.headerComp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.headerComp div{
+    width: max-content;
+}
+
+.chargeTollTxt{
+    font-size: 24px;
+}
+
+.chargeTollTxtLine{
+    height: 2px;
+    min-width: 100px;
+    background-color: var(--light);
+}
+
+.stepContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.stepContent{
+    margin-top: 100px;
+}
+
+.uploadImageButton{
+    height: 48px;
+    width: 360px;
+    border: 1px solid var(--darkblue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    margin-bottom: 16px;
+}
+
+.liveScanButton{
+    height: 48px;
+    width: 360px;
+    background-color: var(--darkblue);
+    color: var(--white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+}
+
+.imgPreview{
+    background-color: var(--grey);
+    height: 280px;
+    width: 460px;
+    border-radius: 12px 12px 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.uploadButton{
+    background-color: var(--light);
+    height: 48px;
+    width: 460px;
+    border-radius: 0px 0px 12px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px;
+    cursor: pointer;
+}
+
+.finalContent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 48px;
+}
+
+.vehicleDetails{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.vehicleDetailsContainer{
+    width: 100%;
+    max-width: 220px;
+    border: 1px solid var(--lightblue);
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 12px;
+}
+
+.vehicleDetailsLabels{
+    font-size: 12px;
+}
+
+.vehicleDetailsvalues{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.footerContainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.previousPageButton{
+    height: 48px;
+    width: 120px;
+    border: 2px solid var(--lightblue);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.previousPageButton{
+    height: 48px;
+    width: 120px;
+    border: 2px solid var(--lightblue);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nextPageButton{
+    height: 48px;
+    width: 120px;
+    border: 2px solid var(--light);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.previewImg{
+    height: 100%;
+    width: 100%;
+}
+
+.vehicleImage{
+    height: 240px;
+    width: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.vehicleDetails img{
+    height: 80%;
+    width: 80%;
+}

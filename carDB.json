@@ -1,0 +1,403 @@
+{ "cardetails":[
+ {
+  "UserID": "UID001",
+  "Username": "Aarushi Chowdhury",
+  "AccountID": "UA001",
+  "AccountBalance": 0,
+  "CarRegistration": "HR26CK8571",
+  "CarMake": "Suzuki",
+  "CarModel": "Ciaz",
+  "CarColour": "Brown"
+ },
+ {
+  "UserID": "UID002",
+  "Username": "Swarna Ramesh",
+  "AccountID": "UA002",
+  "AccountBalance": 0,
+  "CarRegistration": "MH14EU3498",
+  "CarMake": "Wolkswagen",
+  "CarModel": "Jetta",
+  "CarColour": "Brown"
+ },
+ {
+  "UserID": "UID003",
+  "Username": "Kanta Nagy",
+  "AccountID": "UA003",
+  "AccountBalance": 0,
+  "CarRegistration": "GJW115A1138",
+  "CarMake": "Mahindra",
+  "CarModel": "XUV500",
+  "CarColour": "Silver"
+ },
+ {
+  "UserID": "UID004",
+  "Username": "Divya Barman",
+  "AccountID": "UA004",
+  "AccountBalance": 0,
+  "CarRegistration": "DL3CAY9324",
+  "CarMake": "BMW",
+  "CarModel": "M2",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID005",
+  "Username": "Nilima Boase",
+  "AccountID": "UA005",
+  "AccountBalance": 0,
+  "CarRegistration": "GJ05JH2501",
+  "CarMake": "Nissan",
+  "CarModel": "Terrano",
+  "CarColour": "Black"
+ },
+ {
+  "UserID": "UID006",
+  "Username": "Drishya Ratti",
+  "AccountID": "UA006",
+  "AccountBalance": 0,
+  "CarRegistration": "HR26U7501",
+  "CarMake": "Maruti Suzuki",
+  "CarModel": "Brezza",
+  "CarColour": "Silver"
+ },
+ {
+  "UserID": "UID007",
+  "Username": "Sanjit Balakrishnan",
+  "AccountID": "UA007",
+  "AccountBalance": 0,
+  "CarRegistration": "TN21AT0480",
+  "CarMake": "Nissan",
+  "CarModel": "Terrano",
+  "CarColour": "Red"
+ },
+ {
+  "UserID": "UID008",
+  "Username": "Devika Kuruvilla",
+  "AccountID": "UA008",
+  "AccountBalance": 0,
+  "CarRegistration": "MH14GN9239",
+  "CarMake": "Jeep",
+  "CarModel": "Jeep",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID009",
+  "Username": "Jayesh Tandon",
+  "AccountID": "UA009",
+  "AccountBalance": 0,
+  "CarRegistration": "МН14ЕН7958",
+  "CarMake": "Wolkswagen",
+  "CarModel": "Polo",
+  "CarColour": "Orange"
+ },
+ {
+  "UserID": "UID010",
+  "Username": "Swarna Kadakia",
+  "AccountID": "UA010",
+  "AccountBalance": 0,
+  "CarRegistration": "MH20CS1941",
+  "CarMake": "Skoda",
+  "CarModel": "Octavia",
+  "CarColour": "Silver"
+ },
+ {
+  "UserID": "UID011",
+  "Username": "Om Halder",
+  "AccountID": "UA011",
+  "AccountBalance": 0,
+  "CarRegistration": "HR26DK0830",
+  "CarMake": "Suzuki",
+  "CarModel": "Swift",
+  "CarColour": "Red"
+ },
+ {
+  "UserID": "UID012",
+  "Username": "Bhavana Matthai",
+  "AccountID": "UA012",
+  "AccountBalance": 0,
+  "CarRegistration": "MH20EE7597",
+  "CarMake": "Skoda",
+  "CarModel": "Octavia",
+  "CarColour": "Black"
+ },
+ {
+  "UserID": "UID013",
+  "Username": "Deepak Basu",
+  "AccountID": "UA013",
+  "AccountBalance": 0,
+  "CarRegistration": "UP50AS4535",
+  "CarMake": "Nissan",
+  "CarModel": "Terrano",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID014",
+  "Username": "Janya Mital",
+  "AccountID": "UA014",
+  "AccountBalance": 0,
+  "CarRegistration": "TN58AM1",
+  "CarMake": "Mahindra",
+  "CarModel": "Scorpio",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID015",
+  "Username": "Sai Ram",
+  "AccountID": "UA015",
+  "AccountBalance": 0,
+  "CarRegistration": "TN52U1580",
+  "CarMake": "Suzuki",
+  "CarModel": "WagonR",
+  "CarColour": "Silver"
+ },
+ {
+  "UserID": "UID016",
+  "Username": "Saraswati Mathai",
+  "AccountID": "UA016",
+  "AccountBalance": 0,
+  "CarRegistration": "HR26CE1485",
+  "CarMake": "Suzuki",
+  "CarModel": "Celerio",
+  "CarColour": "Brown"
+ },
+ {
+  "UserID": "UID017",
+  "Username": "Sonam Sandhu",
+  "AccountID": "UA017",
+  "AccountBalance": 0,
+  "CarRegistration": "HR26CH3604",
+  "CarMake": "Suzuki",
+  "CarModel": "Ciaz",
+  "CarColour": "Silver"
+ },
+ {
+  "UserID": "UID018",
+  "Username": "Anisha Cheema",
+  "AccountID": "UA018",
+  "AccountBalance": 0,
+  "CarRegistration": "KL01CC50",
+  "CarMake": "Toyota",
+  "CarModel": "Innova",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID019",
+  "Username": "Anusha Sampath",
+  "AccountID": "UA019",
+  "AccountBalance": 0,
+  "CarRegistration": "KL10AV6633",
+  "CarMake": "Suzuki",
+  "CarModel": "Baleno",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID020",
+  "Username": "Niraj Khalsa",
+  "AccountID": "UA020",
+  "AccountBalance": 0,
+  "CarRegistration": "TN28BA9999",
+  "CarMake": "Mahindra",
+  "CarModel": "Scorpio",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID021",
+  "Username": "Vritika Lad",
+  "AccountID": "UA021",
+  "AccountBalance": 0,
+  "CarRegistration": "HR26BP3543",
+  "CarMake": "Suzuki",
+  "CarModel": "Swift",
+  "CarColour": "Blue"
+ },
+ {
+  "UserID": "UID022",
+  "Username": "Shekhar Kulkarni",
+  "AccountID": "UA022",
+  "AccountBalance": 0,
+  "CarRegistration": "TN07BV5200",
+  "CarMake": "Skoda",
+  "CarModel": "Octavia",
+  "CarColour": "Red"
+ },
+ {
+  "UserID": "UID023",
+  "Username": "Kamala Gour",
+  "AccountID": "UA023",
+  "AccountBalance": 0,
+  "CarRegistration": "TN21BZ0768",
+  "CarMake": "Hyundai",
+  "CarModel": "Creta",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID024",
+  "Username": "Zoya Das",
+  "AccountID": "UA024",
+  "AccountBalance": 0,
+  "CarRegistration": "UP16CT2233",
+  "CarMake": "Nissan",
+  "CarModel": "Terrano",
+  "CarColour": "Silver"
+ },
+ {
+  "UserID": "UID025",
+  "Username": "Shanaya Nagar",
+  "AccountID": "UA025",
+  "AccountBalance": 0,
+  "CarRegistration": "TN37CR4019",
+  "CarMake": "Maruti Suzuki",
+  "CarModel": "Ertiga",
+  "CarColour": "Grey"
+ },
+ {
+  "UserID": "UID026",
+  "Username": "Murali Magar",
+  "AccountID": "UA026",
+  "AccountBalance": 0,
+  "CarRegistration": "KL07BF2007",
+  "CarMake": "Toyota",
+  "CarModel": "Innova",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID027",
+  "Username": "Nilam Johal",
+  "AccountID": "UA027",
+  "AccountBalance": 0,
+  "CarRegistration": "KA51AA3469",
+  "CarMake": "Mahindra",
+  "CarModel": "Scorpio",
+  "CarColour": "Red"
+ },
+ {
+  "UserID": "UID028",
+  "Username": "Naisha Mathai",
+  "AccountID": "UA028",
+  "AccountBalance": 0,
+  "CarRegistration": "HR26BU0375",
+  "CarMake": "Maruti Suzuki",
+  "CarModel": "Celerio",
+  "CarColour": "Blue"
+ },
+ {
+  "UserID": "UID029",
+  "Username": "Navin Mistry",
+  "AccountID": "UA029",
+  "AccountBalance": 0,
+  "CarRegistration": "MH46Z8892",
+  "CarMake": "Mahindra",
+  "CarModel": "Scorpio",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID030",
+  "Username": "Sathwik Borde",
+  "AccountID": "UA030",
+  "AccountBalance": 0,
+  "CarRegistration": "GJ1KF1111",
+  "CarMake": "Toyota",
+  "CarModel": "Fortuner",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID031",
+  "Username": "Shantanu Dass",
+  "AccountID": "UA031",
+  "AccountBalance": 0,
+  "CarRegistration": "TH42R2697",
+  "CarMake": "Honda",
+  "CarModel": "Jazz",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID032",
+  "Username": "Priya Sharma",
+  "AccountID": "UA032",
+  "AccountBalance": 0,
+  "CarRegistration": "HR26DA2330",
+  "CarMake": "Suzuki",
+  "CarModel": "Baleno",
+  "CarColour": "Blue"
+ },
+ {
+  "UserID": "UID033",
+  "Username": "Manju Bajwa",
+  "AccountID": "UA033",
+  "AccountBalance": 0,
+  "CarRegistration": "KL07BF5000",
+  "CarMake": "Maruti Suzuki",
+  "CarModel": "WagonR",
+  "CarColour": "Orange"
+ },
+ {
+  "UserID": "UID034",
+  "Username": "Kalyani Ray",
+  "AccountID": "UA034",
+  "AccountBalance": 0,
+  "CarRegistration": "HR26DK6475",
+  "CarMake": "Maruti Suzuki",
+  "CarModel": "Baleno",
+  "CarColour": "Blue"
+ },
+ {
+  "UserID": "UID035",
+  "Username": "Devansh Shere",
+  "AccountID": "UA035",
+  "AccountBalance": 0,
+  "CarRegistration": "KL43B2344",
+  "CarMake": "Toyota",
+  "CarModel": "Innova",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID036",
+  "Username": "Akhil Rajagopalan",
+  "AccountID": "UA036",
+  "AccountBalance": 0,
+  "CarRegistration": "MH03BS7778",
+  "CarMake": "Wolkswagen",
+  "CarModel": "Jetta",
+  "CarColour": "Blue"
+ },
+ {
+  "UserID": "UID037",
+  "Username": "Vidya Kari",
+  "AccountID": "UA037",
+  "AccountBalance": 0,
+  "CarRegistration": "КА03AB3380",
+  "CarMake": "Honda",
+  "CarModel": "City",
+  "CarColour": "Maroon"
+ },
+ {
+  "UserID": "UID038",
+  "Username": "Sandhya Parmar",
+  "AccountID": "UA038",
+  "AccountBalance": 0,
+  "CarRegistration": "DL7CN5617",
+  "CarMake": "Fiat",
+  "CarModel": "Punto",
+  "CarColour": "Red"
+ },
+ {
+  "UserID": "UID039",
+  "Username": "Nitya Tripathi",
+  "AccountID": "UA039",
+  "AccountBalance": 0,
+  "CarRegistration": "KL01AX8000",
+  "CarMake": "Skoda",
+  "CarModel": "Superb",
+  "CarColour": "White"
+ },
+ {
+  "UserID": "UID040",
+  "Username": "Rati Saxena",
+  "AccountID": "UA040",
+  "AccountBalance": 0,
+  "CarRegistration": "HR26DG6167",
+  "CarMake": "Maruti Suzuki",
+  "CarModel": "Brezza",
+  "CarColour": "Black"
+ }
+]
+}

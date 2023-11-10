@@ -1,0 +1,2 @@
+& C:/Users/AdityaK/AppData/Local/Programs/Python/Python311/python.exe 
+c:/number-plate-recognition-code/RealTime-OCR/Main.py -t/C:/ProgramFiles/Tesseract-OCR/tesseract
